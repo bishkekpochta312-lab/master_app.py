@@ -1,0 +1,50 @@
+# Виртуальное окружение
+venv/
+venv311/
+venv_new/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Файлы данных
+masters_data.json
+*.db
+*.sqlite
+
+# Логи и отладка
+*.log
+*.pid
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Flet
+.flet/
+.flet-dev/
+
+# Railway
+.railway/
+
+# Ngrok
+ngrok-stable-linux-amd64.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Builds
+build/
+dist/
+*.egg-info/

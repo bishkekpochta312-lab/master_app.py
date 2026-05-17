@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Акылай",
+    "phone": "+9965040304098",
+    "total_orders": 1,
+    "total_commission": 500.0
+  },
+  {
+    "name": "Куба",
+    "phone": "+996700002546",
+    "total_orders": 10,
+    "total_commission": 3500.0
+  },
+  {
+    "name": "Тима",
+    "phone": "+996502300300",
+    "total_orders": 10,
+    "total_commission": 3000.0
+  },
+  {
+    "name": "Билал",
+    "phone": "+996 5000202023",
+    "total_orders": 0,
+    "total_commission": 0
+  }
+]
